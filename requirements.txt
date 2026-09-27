@@ -1,0 +1,9 @@
+imdlib
+pyswisseph
+pandas
+numpy
+scipy
+xarray
+matplotlib
+seaborn
+streamlit
